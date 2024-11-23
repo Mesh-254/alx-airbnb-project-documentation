@@ -153,8 +153,8 @@ Administrative tools for monitoring and managing platform activities.
     pip install -r requirements.txt  # For Python
 4. **Set Up Environment Variables**
 - Configure the .env file or environment variables for:
-        - Database connection (e.g., PostgreSQL).
-        - Payment gateway settings (e.g., Stripe, PayPal API keys).
+    - Database connection (e.g., PostgreSQL).
+    - Payment gateway settings (e.g., Stripe, PayPal API keys).
 5. Run the Server
     ```bash
     python manage.py runserver  # Django
